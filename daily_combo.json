@@ -1,9 +1,9 @@
 {
     "combo": [
-        "web3_integration",
-        "oracle",
-        "telegram_top_ever"
+        "medium",
+        "appstore_launch",
+        "margin_trading_x50"
     ],
-    "date": "2024-09-10",
-    "expires": 1726056000
+    "date": "2024-09-11",
+    "expires": 1726142400
 }
