@@ -1,9 +1,9 @@
 {
     "combo": [
-        "medium",
-        "appstore_launch",
-        "margin_trading_x50"
+        "top_10_cmc_pairs",
+        "hamster_youtube_gold_button",
+        "villa_for_dev_team"
     ],
-    "date": "2024-09-11",
-    "expires": 1726142400
+    "date": "2024-09-12",
+    "expires": 1726228800
 }
