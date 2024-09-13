@@ -1,9 +1,9 @@
 {
     "combo": [
-        "top_10_cmc_pairs",
-        "hamster_youtube_gold_button",
-        "villa_for_dev_team"
+        "okx_listing",
+        "bybit_listing",
+        "binance_listing"
     ],
-    "date": "2024-09-12",
-    "expires": 1726228800
+    "date": "2024-09-13",
+    "expires": 1726315200
 }
